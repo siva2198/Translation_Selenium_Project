@@ -72,8 +72,7 @@ Feel free to clone the repository and make any improvements or bug fixes. Contri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-scraper-translator.git
-   cd web-scraper-translator
+   git clone https://github.com/siva2198/Translation_Selenium_Project.git
    ```
 
 ### 🤖 Thank you for checking out the project! We hope it helps with your web scraping and translation tasks. Happy coding! 🚀
